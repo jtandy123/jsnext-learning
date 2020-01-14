@@ -1,0 +1,1 @@
+import('../module/profile.mjs').then(profile => console.log(profile))
